@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "pokemon-app",
+    "name": "Pokemon App",
     "slug": "pokemon-app",
+    "description": "Pokemon search application",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/pokeball.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/pokeball.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
